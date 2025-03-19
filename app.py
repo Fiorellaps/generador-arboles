@@ -21,25 +21,17 @@ else:
 
     funny_phrases = [
     "La cara de los polacos cuando España gana el premio a mejor árbol de Europa.",
-    "La cara de Lalacus cuando la hacen ir a Bruselas.",
-    "Cuando descubres que el mejor árbol de Europa está en España y no en tu país.",
+    "La cara de Lalacus cuando la hacen ir a Bruselas al premio del árbol.",
+    "Cuando descubres que el mejor árbol de Europa está en España y no en Polonia.",
     "Esa sensación cuando pensabas que ganarías el premio y luego... España lo gana.",
     "El community manager de Polonia intentando explicar por qué no ganaron.",
-    "Cuando en 'El Intermedio' mencionan la revuelta y aún no te lo crees.",
-    "La cara de Wyoming cuando se entera de que hay una revuelta por un árbol.",
+    "La cara de Grison cuando le para la guardia civil.",
     "David Broncano preguntando en La Resistencia: ‘¿Cuántos árboles tienes en casa?’", 
-    "El CM de Malasmadres al ver que el árbol español barre en las votaciones.",
     "Ese momento en el que te das cuenta de que el árbol de tu pueblo nunca será famoso.",
-    "Cuando los polacos dicen que su árbol era mejor pero el español tiene más flow.",
-    "Ese instante en el que el alcalde de tu pueblo se convierte en influencer por un árbol.",
     "Cuando el premio al mejor árbol de Europa importa más que las elecciones generales.",
-    "El becario del ayuntamiento intentando explicar por qué se viralizó la revuelta.",
-    "Cuando descubres que hay más gente votando por el árbol que en Eurovisión.",
-    "El momento exacto en que los polacos entran en negación tras la votación.",
-    "Cuando creías que la política era complicada, pero ahora todo gira en torno a un árbol.",
-    "El comité europeo sin entender por qué España y Polonia están en guerra por un árbol.",
-    "Cuando piensas que has visto todo en la vida, pero un árbol se convierte en el tema del año." 
-]
+    "Cuando descubres que hay más gente votando por concurso del árbol que en las elecciones generales.",
+    "El comité europeo sin entender por qué España y Polonia están en guerra por un árbol."
+    ]
 
 if 'used_images' not in st.session_state:
     st.session_state.used_images = []
